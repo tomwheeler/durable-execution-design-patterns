@@ -1,4 +1,4 @@
-== Introduction: The Pattern Language of Durable Execution
+== Introduction: The Pattern Language of Durable Execution 
 
 In 1977, Christopher Alexander published _A Pattern Language_. His insight was
 deceptively simple: a pattern is not a recipe. It is a named tension and its
