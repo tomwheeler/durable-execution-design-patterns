@@ -162,7 +162,7 @@ an event in the workflow's history. After both activities complete, the history
 looks like this:
 
 ----
-Event 1: WorkflowExecutionStarted  {input: Order(...)}
+Event 1: WorkflowExecutionStarted   {input: Order(...)}
 Event 2: ActivityTaskScheduled      {activity: "charge_payment"}
 Event 3: ActivityTaskCompleted      {result: "ch_abc123"}
 Event 4: ActivityTaskScheduled      {activity: "ship_order"}
