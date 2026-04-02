@@ -1,4 +1,4 @@
-== The Entity (Durable Object)
+== The Entity (Durable Object) 
 
 [quote]
 ____

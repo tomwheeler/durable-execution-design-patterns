@@ -1,4 +1,4 @@
-== The Scatter-Gather (Parallel Aggregation)
+== The Scatter-Gather (Parallel Aggregation) 
 
 [quote]
 ____

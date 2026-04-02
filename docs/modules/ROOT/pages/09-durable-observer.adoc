@@ -1,4 +1,4 @@
-== The Durable Observer (Event Correlator)
+== The Durable Observer (Event Correlator) 
 
 [quote]
 ____

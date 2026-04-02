@@ -1,4 +1,4 @@
-= Durable Execution Design Patterns
+= Durable Execution Design Patterns 
 
 [preface]
 == Preface

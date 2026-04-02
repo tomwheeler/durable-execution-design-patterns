@@ -1,4 +1,4 @@
-== The Durable Promise (External Fulfillment)
+== The Durable Promise (External Fulfillment) 
 
 [quote]
 ____

@@ -1,4 +1,4 @@
-== Code-as-State (Implicit State Machine)
+== Code-as-State (Implicit State Machine) 
 
 [quote]
 ____
